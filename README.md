@@ -1,7 +1,7 @@
 # Hugo Blueprint
 
-[![](https://img.shields.io/github/workflow/status/accelerator-blueprints/hugo-blueprint/master)](https://github.com/ivankatliarchuk/ivankatliarchuk.github.io/actions?query=is%3Acompleted)
-[![](https://img.shields.io/github/workflow/status/accelerator-blueprints/hugo-blueprint/check-markdown-links/master)](https://github.com/ivankatliarchuk/ivankatliarchuk.github.io/actions?query=is%3Acompleted)
+[![](https://img.shields.io/github/workflow/status/accelerator-blueprints/hugo-blueprint/master)](https://github.com/accelerator-blueprints/hugo-blueprint/actions?query=is%3Acompleted)
+[![](https://img.shields.io/github/workflow/status/accelerator-blueprints/hugo-blueprint/check-markdown-links/master)](https://github.com/accelerator-blueprints/hugo-blueprint/actions?query=is%3Acompleted)
 
 ![Repository Size](https://img.shields.io/github/repo-size/accelerator-blueprints/hugo-blueprint)
 ![Lines of Codes](https://img.shields.io/tokei/lines/github/accelerator-blueprints/hugo-blueprint)
